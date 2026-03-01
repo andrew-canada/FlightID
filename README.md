@@ -27,3 +27,5 @@ Outputs (written to `outputs/`):
 Files added: `src/train_explain.py`, `src/utils.py`.
 
 See `src/train_explain.py --help` for options.
+
+In order to open the SDSS_Hackathon.pbix file in the DevPost submission, you can either open it on the PowerBI Desktop app or through the [web](app.powerbi.com) and upload it as your own workshop. (Free Trial struggles)
