@@ -18,7 +18,7 @@ from utils import feature_engineer
 def select_features():
     # Target is fare_per_mile, so we exclude it from features
     return [
-        'nsmiles_clean', 'nkm', 'passengers_clean',
+        'nkm', 'passengers_clean',
         'orig_total', 'dest_total', 'hub_ratio', 'origin_is_hub',
         'hub_intensity_orig', 'hub_intensity_dest', 'market_concentration', 
         'competitive_pressure', 'carrier_lg_freq', 'carrier_low_freq'

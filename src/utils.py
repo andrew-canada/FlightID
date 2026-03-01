@@ -17,23 +17,32 @@ def feature_engineer(df: pd.DataFrame) -> pd.DataFrame:
     # Derived Engineering
     df['nkm'] = df['nsmiles_clean'] * 1.60934
     df['fare_per_mile'] = df['fare_clean'] / df['nsmiles_clean'].replace(0, np.nan)
+
+    for col in ['carrier_lg', 'carrier_low']:
+        if col in df.columns:
+            # Calculate frequency: how often does this carrier appear?
+            freq = df[col].value_counts(normalize=True)
+            df[col + '_freq'] = df[col].map(freq)
+        else:
+            # CRITICAL FIX: If the column is missing, create it with 0s
+            df[col + '_freq'] = 0.0
     
     # Hub & Market Indicators
     df['orig_total'] = pd.to_numeric(df.get('TotalFaredPax_city1', 0), errors='coerce')
     df['dest_total'] = pd.to_numeric(df.get('TotalFaredPax_city2', 0), errors='coerce')
     df['hub_ratio'] = df['orig_total'] / df['dest_total'].replace(0, np.nan)
     df['origin_is_hub'] = (df['orig_total'] > df['dest_total']).astype(int)
-    
+
+    df['market_concentration'] = (df['carrier_lg_freq']**2 + df['carrier_low_freq']**2)
+
+    global_mean_pax = df['orig_total'].mean()
+    df['hub_intensity_orig'] = df['orig_total'] / global_mean_pax
+    df['hub_intensity_dest'] = df['dest_total'] / global_mean_pax
+
     # Competitive Index
     a = pd.to_numeric(df.get('TotalPerLFMkts_city1', 0), errors='coerce')
     b = pd.to_numeric(df.get('TotalPerLFMkts_city2', 0), errors='coerce')
     df['competitive_pressure'] = (a + b) / 2.0
-    
-    # Carrier Freq
-    for col in ['carrier_lg','carrier_low']:
-        if col in df.columns:
-            freq = df[col].value_counts(normalize=True)
-            df[col+'_freq'] = df[col].map(freq)
             
     return df
 
