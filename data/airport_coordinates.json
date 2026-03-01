@@ -1,0 +1,546 @@
+{
+  "Albany, NY": [
+    42.7473,
+    -73.8014
+  ],
+  "Albuquerque, NM": [
+    35.0402,
+    -106.609
+  ],
+  "Allentown/Bethlehem/Easton, PA": [
+    40.6519,
+    -75.4399
+  ],
+  "Amarillo, TX": [
+    35.2219,
+    -101.7059
+  ],
+  "Appleton, WI": [
+    44.2619,
+    -88.4154
+  ],
+  "Asheville, NC": [
+    35.4321,
+    -82.5412
+  ],
+  "Aspen, CO": [
+    39.2232,
+    -106.8685
+  ],
+  "Atlanta, GA (Metropolitan Area)": [
+    33.6407,
+    -84.4277
+  ],
+  "Atlantic City, NJ": [
+    39.4576,
+    -74.5771
+  ],
+  "Austin, TX": [
+    30.1975,
+    -97.6664
+  ],
+  "Bangor, ME": [
+    44.8074,
+    -68.8281
+  ],
+  "Belleville, IL": [
+    38.5201,
+    -89.984
+  ],
+  "Bellingham, WA": [
+    48.7928,
+    -122.5375
+  ],
+  "Bend/Redmond, OR": [
+    44.2541,
+    -121.15
+  ],
+  "Billings, MT": [
+    45.8077,
+    -108.5428
+  ],
+  "Birmingham, AL": [
+    33.5629,
+    -86.7535
+  ],
+  "Bismarck/Mandan, ND": [
+    46.7727,
+    -100.7463
+  ],
+  "Boise, ID": [
+    43.5644,
+    -116.2228
+  ],
+  "Boston, MA (Metropolitan Area)": [
+    42.3656,
+    -71.0096
+  ],
+  "Bozeman, MT": [
+    45.7776,
+    -111.1527
+  ],
+  "Buffalo, NY": [
+    42.9405,
+    -78.7322
+  ],
+  "Burlington, VT": [
+    44.472,
+    -73.1533
+  ],
+  "Cedar Rapids/Iowa City, IA": [
+    41.8842,
+    -91.7107
+  ],
+  "Charleston, SC": [
+    32.8986,
+    -80.0405
+  ],
+  "Charlotte, NC": [
+    35.214,
+    -80.9431
+  ],
+  "Charlottesville, VA": [
+    38.1386,
+    -78.4524
+  ],
+  "Chicago, IL": [
+    41.9742,
+    -87.9073
+  ],
+  "Cincinnati, OH": [
+    39.0489,
+    -84.6678
+  ],
+  "Cleveland, OH (Metropolitan Area)": [
+    41.4117,
+    -81.8498
+  ],
+  "Colorado Springs, CO": [
+    38.8058,
+    -104.7007
+  ],
+  "Columbia, SC": [
+    33.9388,
+    -81.1197
+  ],
+  "Columbus, OH": [
+    39.998,
+    -82.8919
+  ],
+  "Dallas/Fort Worth, TX": [
+    32.8998,
+    -97.0403
+  ],
+  "Dayton, OH": [
+    39.9024,
+    -84.2194
+  ],
+  "Denver, CO": [
+    39.8561,
+    -104.6737
+  ],
+  "Des Moines, IA": [
+    41.5338,
+    -93.6631
+  ],
+  "Detroit, MI": [
+    42.2124,
+    -83.3534
+  ],
+  "Eagle, CO": [
+    39.6426,
+    -106.9177
+  ],
+  "El Paso, TX": [
+    31.8069,
+    -106.3779
+  ],
+  "Eugene, OR": [
+    44.1246,
+    -123.219
+  ],
+  "Eureka/Arcata, CA": [
+    40.9781,
+    -124.1086
+  ],
+  "Everett, WA": [
+    47.9719,
+    -122.2705
+  ],
+  "Fargo, ND": [
+    46.9207,
+    -96.8158
+  ],
+  "Fayetteville, AR": [
+    36.0041,
+    -94.17
+  ],
+  "Flint, MI": [
+    42.9655,
+    -83.7435
+  ],
+  "Fort Myers, FL": [
+    26.5362,
+    -81.7552
+  ],
+  "Fort Wayne, IN": [
+    40.9785,
+    -85.1952
+  ],
+  "Fresno, CA": [
+    36.7762,
+    -119.718
+  ],
+  "Grand Rapids, MI": [
+    42.8808,
+    -85.5228
+  ],
+  "Greensboro/High Point, NC": [
+    36.0978,
+    -79.9373
+  ],
+  "Greenville/Spartanburg, SC": [
+    34.8957,
+    -82.2189
+  ],
+  "Harlingen/San Benito, TX": [
+    26.2285,
+    -97.6564
+  ],
+  "Harrisburg, PA": [
+    40.1935,
+    -76.7634
+  ],
+  "Hartford, CT": [
+    41.9389,
+    -72.6832
+  ],
+  "Houston, TX": [
+    29.9902,
+    -95.3368
+  ],
+  "Huntsville, AL": [
+    34.643,
+    -86.7752
+  ],
+  "Indianapolis, IN": [
+    39.7173,
+    -86.2944
+  ],
+  "Jackson, WY": [
+    43.6073,
+    -110.7377
+  ],
+  "Jackson/Vicksburg, MS": [
+    32.3112,
+    -90.075
+  ],
+  "Jacksonville, FL": [
+    30.4941,
+    -81.6879
+  ],
+  "Kalispell, MT": [
+    48.3022,
+    -114.256
+  ],
+  "Kansas City, MO": [
+    39.2976,
+    -94.7139
+  ],
+  "Key West, FL": [
+    24.5561,
+    -81.7595
+  ],
+  "Knoxville, TN": [
+    35.8127,
+    -83.994
+  ],
+  "Las Vegas, NV": [
+    36.084,
+    -115.1537
+  ],
+  "Latrobe, PA": [
+    40.276,
+    -79.4048
+  ],
+  "Little Rock, AR": [
+    34.7294,
+    -92.2241
+  ],
+  "Los Angeles, CA (Metropolitan Area)": [
+    33.9425,
+    -118.4081
+  ],
+  "Louisville, KY": [
+    38.174,
+    -85.736
+  ],
+  "Lubbock, TX": [
+    33.6636,
+    -101.8228
+  ],
+  "Madison, WI": [
+    43.1399,
+    -89.3375
+  ],
+  "Martha's Vineyard, MA": [
+    41.3931,
+    -70.6151
+  ],
+  "Medford, OR": [
+    42.3742,
+    -122.8735
+  ],
+  "Memphis, TN": [
+    35.0421,
+    -89.9792
+  ],
+  "Miami, FL (Metropolitan Area)": [
+    25.7959,
+    -80.287
+  ],
+  "Midland/Odessa, TX": [
+    31.9425,
+    -102.2019
+  ],
+  "Milwaukee, WI": [
+    42.9472,
+    -87.8966
+  ],
+  "Minneapolis/St. Paul, MN": [
+    44.882,
+    -93.2218
+  ],
+  "Mission/McAllen/Edinburg, TX": [
+    26.1758,
+    -98.2386
+  ],
+  "Missoula, MT": [
+    46.9163,
+    -114.0905
+  ],
+  "Myrtle Beach, SC": [
+    33.6797,
+    -78.9283
+  ],
+  "Nantucket, MA": [
+    41.2531,
+    -70.0602
+  ],
+  "Nashville, TN": [
+    36.1263,
+    -86.6774
+  ],
+  "New Haven, CT": [
+    41.2638,
+    -72.8868
+  ],
+  "New Orleans, LA": [
+    29.9934,
+    -90.258
+  ],
+  "New York City, NY (Metropolitan Area)": [
+    40.6413,
+    -73.7781
+  ],
+  "Norfolk, VA (Metropolitan Area)": [
+    36.8946,
+    -76.0177
+  ],
+  "Oklahoma City, OK": [
+    35.3931,
+    -97.6007
+  ],
+  "Omaha, NE": [
+    41.3032,
+    -95.8941
+  ],
+  "Orlando, FL": [
+    28.4312,
+    -81.3081
+  ],
+  "Palm Springs, CA": [
+    33.8303,
+    -116.5072
+  ],
+  "Panama City, FL": [
+    30.2121,
+    -85.6824
+  ],
+  "Pasco/Kennewick/Richland, WA": [
+    46.265,
+    -119.1192
+  ],
+  "Pensacola, FL": [
+    30.4732,
+    -87.1866
+  ],
+  "Peoria, IL": [
+    40.6642,
+    -89.6933
+  ],
+  "Philadelphia, PA": [
+    39.8721,
+    -75.2411
+  ],
+  "Phoenix, AZ": [
+    33.4373,
+    -112.0078
+  ],
+  "Pittsburgh, PA": [
+    40.4915,
+    -80.2329
+  ],
+  "Portland, ME": [
+    43.6462,
+    -70.3087
+  ],
+  "Portland, OR": [
+    45.5887,
+    -122.5975
+  ],
+  "Provo, UT": [
+    40.2181,
+    -111.7228
+  ],
+  "Punta Gorda, FL": [
+    26.9198,
+    -82.0549
+  ],
+  "Raleigh/Durham, NC": [
+    35.8776,
+    -78.7875
+  ],
+  "Reno, NV": [
+    39.4991,
+    -119.7682
+  ],
+  "Richmond, VA": [
+    37.5051,
+    -77.3194
+  ],
+  "Rochester, NY": [
+    43.1189,
+    -77.6724
+  ],
+  "Rockford, IL": [
+    42.1954,
+    -89.0968
+  ],
+  "Sacramento, CA": [
+    38.5126,
+    -121.4934
+  ],
+  "Salt Lake City, UT": [
+    40.7899,
+    -111.9791
+  ],
+  "San Antonio, TX": [
+    29.5337,
+    -98.4698
+  ],
+  "San Diego, CA": [
+    32.7338,
+    -117.1933
+  ],
+  "San Francisco, CA (Metropolitan Area)": [
+    37.6213,
+    -122.379
+  ],
+  "Sanford, FL": [
+    28.7776,
+    -81.2375
+  ],
+  "Santa Barbara, CA": [
+    34.4262,
+    -119.84
+  ],
+  "Santa Rosa, CA": [
+    38.5088,
+    -122.8124
+  ],
+  "Sarasota/Bradenton, FL": [
+    27.3954,
+    -82.5543
+  ],
+  "Savannah, GA": [
+    32.1276,
+    -81.2021
+  ],
+  "Seattle, WA": [
+    47.4502,
+    -122.3088
+  ],
+  "Sioux Falls, SD": [
+    43.582,
+    -96.741
+  ],
+  "South Bend, IN": [
+    41.7087,
+    -86.3174
+  ],
+  "Spokane, WA": [
+    47.6199,
+    -117.5338
+  ],
+  "St. Louis, MO": [
+    38.7487,
+    -90.37
+  ],
+  "Steamboat Springs, CO": [
+    40.5163,
+    -106.8656
+  ],
+  "Syracuse, NY": [
+    43.1112,
+    -76.1063
+  ],
+  "Tallahassee, FL": [
+    30.3965,
+    -84.3503
+  ],
+  "Tampa, FL (Metropolitan Area)": [
+    27.9755,
+    -82.5332
+  ],
+  "Trenton, NJ": [
+    40.2766,
+    -74.8094
+  ],
+  "Tucson, AZ": [
+    32.1161,
+    -110.941
+  ],
+  "Tulsa, OK": [
+    36.1984,
+    -95.8881
+  ],
+  "Valparaiso, FL": [
+    30.483,
+    -86.4855
+  ],
+  "Vero Beach, FL": [
+    27.6556,
+    -80.4178
+  ],
+  "Washington, DC (Metropolitan Area)": [
+    38.9531,
+    -77.4565
+  ],
+  "West Palm Beach/Palm Beach, FL": [
+    26.6832,
+    -80.0956
+  ],
+  "Wichita, KS": [
+    37.6489,
+    -97.4331
+  ],
+  "Wilmington, NC": [
+    34.2708,
+    -77.9025
+  ],
+  "Worcester, MA": [
+    42.2671,
+    -71.8756
+  ]
+}
